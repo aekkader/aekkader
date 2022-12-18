@@ -1,5 +1,5 @@
 - 👋 Hi, I’m KLALIB Abdelkader
-- 👀 I’m interested in dev Fullstack : Angular 14, Springboot 2.7 and Java 11
+- 👀 I’m a dev Fullstack : Angular 14, Springboot 2.7 and Java 11
 - 📫 How to reach me ...
 
 <!---
